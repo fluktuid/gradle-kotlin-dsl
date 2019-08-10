@@ -1,0 +1,2 @@
+This foo bar should be mounted in docker container
+Happy coding

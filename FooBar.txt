@@ -1,0 +1,3 @@
+This file contains foo and bar
+Foo comes before bar
+Bar comes after foo
